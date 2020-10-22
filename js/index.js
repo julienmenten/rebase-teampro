@@ -1,3 +1,7 @@
+// Insane god code
+// Made by
+// Tim Willaert
+
 window.onload = () => {
     console.log('Page loaded')
 
